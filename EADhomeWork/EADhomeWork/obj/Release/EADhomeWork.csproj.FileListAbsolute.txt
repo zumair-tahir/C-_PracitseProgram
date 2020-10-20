@@ -1,0 +1,5 @@
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\bin\Release\EADhomeWork.exe.config
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\bin\Release\EADhomeWork.exe
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\bin\Release\EADhomeWork.pdb
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\obj\Release\EADhomeWork.exe
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\obj\Release\EADhomeWork.pdb

@@ -1,0 +1,6 @@
+c:\users\ch zu\documents\visual studio 2012\Projects\EadHw\EadHw\bin\Debug\EadHw.exe.config
+c:\users\ch zu\documents\visual studio 2012\Projects\EadHw\EadHw\bin\Debug\EadHw.exe
+c:\users\ch zu\documents\visual studio 2012\Projects\EadHw\EadHw\bin\Debug\EadHw.pdb
+c:\users\ch zu\documents\visual studio 2012\Projects\EadHw\EadHw\obj\Debug\EadHw.csprojResolveAssemblyReference.cache
+c:\users\ch zu\documents\visual studio 2012\Projects\EadHw\EadHw\obj\Debug\EadHw.exe
+c:\users\ch zu\documents\visual studio 2012\Projects\EadHw\EadHw\obj\Debug\EadHw.pdb

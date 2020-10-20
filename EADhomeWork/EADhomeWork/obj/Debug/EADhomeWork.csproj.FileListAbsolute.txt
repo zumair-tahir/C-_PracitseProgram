@@ -1,0 +1,6 @@
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\bin\Debug\EADhomeWork.exe.config
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\bin\Debug\EADhomeWork.exe
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\bin\Debug\EADhomeWork.pdb
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\obj\Debug\EADhomeWork.csprojResolveAssemblyReference.cache
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\obj\Debug\EADhomeWork.exe
+c:\users\ch zu\documents\visual studio 2012\Projects\EADhomeWork\EADhomeWork\obj\Debug\EADhomeWork.pdb
